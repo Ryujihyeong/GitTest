@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("테스트");
+        Debug.Log("이곳을 수정함");
     }
 
     // Update is called once per frame
