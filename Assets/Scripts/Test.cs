@@ -8,6 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("이곳을 수정함4");
+        Debug.Log("issue0616-2에서 수정함");
     }
 
     // Update is called once per frame
